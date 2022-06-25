@@ -5,7 +5,7 @@ This is a BlackJack game just using Html, Css and JavaScript.
 ### Instructions:
 * 1.- Enter your name.
 * 2.- You can draw a card, each card has a value:
-* 2 from 8 of each suit has default value, eg: 2 of clubs = 2
+* 2 from 9 of each suit has default value, eg: 2 of clubs = 2
 * a) As has a value of 11
 * b) J, Q and K have a value of 10
 
