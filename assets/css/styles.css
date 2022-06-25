@@ -1,0 +1,32 @@
+html, body {
+    margin: 0%;
+    background-color: #2F4F30;
+    color: white;
+}
+
+.title {
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    font-size: 25px;
+}
+
+.player {
+margin-top: 20px;
+}
+
+.machine {
+    margin-top: 30px;
+    }
+
+.cards {
+    position: relative;
+    width: 110px;
+    left: 100px;
+    margin-left: -70px;
+}
+
+#playerCards, #machineCards {
+    height: 200px;
+}
