@@ -158,5 +158,5 @@ const myModule = (() => {
   return {
     inicializarJuego: startGame
   };
-
+  
 })();
